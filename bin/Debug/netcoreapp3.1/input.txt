@@ -1,5 +1,0 @@
-﻿name:anApplicationWithAnExecutable
-searchcriteria:.exe
-
-name:applicationWithASettings.JsonFile
-searchcriteria:settings.json
